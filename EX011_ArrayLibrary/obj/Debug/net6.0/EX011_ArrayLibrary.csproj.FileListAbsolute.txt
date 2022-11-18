@@ -1,0 +1,15 @@
+/Users/oxanarybkina/Desktop/ForGIT/Leczia/Leczia2/EXES/EX011_ArrayLibrary/bin/Debug/net6.0/EX011_ArrayLibrary
+/Users/oxanarybkina/Desktop/ForGIT/Leczia/Leczia2/EXES/EX011_ArrayLibrary/bin/Debug/net6.0/EX011_ArrayLibrary.deps.json
+/Users/oxanarybkina/Desktop/ForGIT/Leczia/Leczia2/EXES/EX011_ArrayLibrary/bin/Debug/net6.0/EX011_ArrayLibrary.runtimeconfig.json
+/Users/oxanarybkina/Desktop/ForGIT/Leczia/Leczia2/EXES/EX011_ArrayLibrary/bin/Debug/net6.0/EX011_ArrayLibrary.dll
+/Users/oxanarybkina/Desktop/ForGIT/Leczia/Leczia2/EXES/EX011_ArrayLibrary/bin/Debug/net6.0/EX011_ArrayLibrary.pdb
+/Users/oxanarybkina/Desktop/ForGIT/Leczia/Leczia2/EXES/EX011_ArrayLibrary/obj/Debug/net6.0/EX011_ArrayLibrary.csproj.AssemblyReference.cache
+/Users/oxanarybkina/Desktop/ForGIT/Leczia/Leczia2/EXES/EX011_ArrayLibrary/obj/Debug/net6.0/EX011_ArrayLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/oxanarybkina/Desktop/ForGIT/Leczia/Leczia2/EXES/EX011_ArrayLibrary/obj/Debug/net6.0/EX011_ArrayLibrary.AssemblyInfoInputs.cache
+/Users/oxanarybkina/Desktop/ForGIT/Leczia/Leczia2/EXES/EX011_ArrayLibrary/obj/Debug/net6.0/EX011_ArrayLibrary.AssemblyInfo.cs
+/Users/oxanarybkina/Desktop/ForGIT/Leczia/Leczia2/EXES/EX011_ArrayLibrary/obj/Debug/net6.0/EX011_ArrayLibrary.csproj.CoreCompileInputs.cache
+/Users/oxanarybkina/Desktop/ForGIT/Leczia/Leczia2/EXES/EX011_ArrayLibrary/obj/Debug/net6.0/EX011_ArrayLibrary.dll
+/Users/oxanarybkina/Desktop/ForGIT/Leczia/Leczia2/EXES/EX011_ArrayLibrary/obj/Debug/net6.0/refint/EX011_ArrayLibrary.dll
+/Users/oxanarybkina/Desktop/ForGIT/Leczia/Leczia2/EXES/EX011_ArrayLibrary/obj/Debug/net6.0/EX011_ArrayLibrary.pdb
+/Users/oxanarybkina/Desktop/ForGIT/Leczia/Leczia2/EXES/EX011_ArrayLibrary/obj/Debug/net6.0/EX011_ArrayLibrary.genruntimeconfig.cache
+/Users/oxanarybkina/Desktop/ForGIT/Leczia/Leczia2/EXES/EX011_ArrayLibrary/obj/Debug/net6.0/ref/EX011_ArrayLibrary.dll
