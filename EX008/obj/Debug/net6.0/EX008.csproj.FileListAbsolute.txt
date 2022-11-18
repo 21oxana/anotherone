@@ -1,0 +1,15 @@
+/Users/oxanarybkina/Desktop/ForGIT/Leczia/Leczia2/EXES/EX008/bin/Debug/net6.0/EX008
+/Users/oxanarybkina/Desktop/ForGIT/Leczia/Leczia2/EXES/EX008/bin/Debug/net6.0/EX008.deps.json
+/Users/oxanarybkina/Desktop/ForGIT/Leczia/Leczia2/EXES/EX008/bin/Debug/net6.0/EX008.runtimeconfig.json
+/Users/oxanarybkina/Desktop/ForGIT/Leczia/Leczia2/EXES/EX008/bin/Debug/net6.0/EX008.dll
+/Users/oxanarybkina/Desktop/ForGIT/Leczia/Leczia2/EXES/EX008/bin/Debug/net6.0/EX008.pdb
+/Users/oxanarybkina/Desktop/ForGIT/Leczia/Leczia2/EXES/EX008/obj/Debug/net6.0/EX008.csproj.AssemblyReference.cache
+/Users/oxanarybkina/Desktop/ForGIT/Leczia/Leczia2/EXES/EX008/obj/Debug/net6.0/EX008.GeneratedMSBuildEditorConfig.editorconfig
+/Users/oxanarybkina/Desktop/ForGIT/Leczia/Leczia2/EXES/EX008/obj/Debug/net6.0/EX008.AssemblyInfoInputs.cache
+/Users/oxanarybkina/Desktop/ForGIT/Leczia/Leczia2/EXES/EX008/obj/Debug/net6.0/EX008.AssemblyInfo.cs
+/Users/oxanarybkina/Desktop/ForGIT/Leczia/Leczia2/EXES/EX008/obj/Debug/net6.0/EX008.csproj.CoreCompileInputs.cache
+/Users/oxanarybkina/Desktop/ForGIT/Leczia/Leczia2/EXES/EX008/obj/Debug/net6.0/EX008.dll
+/Users/oxanarybkina/Desktop/ForGIT/Leczia/Leczia2/EXES/EX008/obj/Debug/net6.0/refint/EX008.dll
+/Users/oxanarybkina/Desktop/ForGIT/Leczia/Leczia2/EXES/EX008/obj/Debug/net6.0/EX008.pdb
+/Users/oxanarybkina/Desktop/ForGIT/Leczia/Leczia2/EXES/EX008/obj/Debug/net6.0/EX008.genruntimeconfig.cache
+/Users/oxanarybkina/Desktop/ForGIT/Leczia/Leczia2/EXES/EX008/obj/Debug/net6.0/ref/EX008.dll
